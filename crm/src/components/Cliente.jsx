@@ -29,14 +29,14 @@ function Cliente({ clientes }) {
       <td className="p-6 flex gap-3 items-center justify-center">
         <button
           type="button"
-          className="text-blue-600 hover:text-blue-700 uppercase font-bold text-xs"
+          className="text-blue-600 hover:text-blue-700 uppercase font-bold"
         >
           Editar
         </button>
 
         <button
           type="button"
-          className="text-red-600 hover:text-red-700 uppercase font-bold text-xs"
+          className="text-red-600 hover:text-red-700 uppercase font-bold"
         >
           Eliminar
         </button>
