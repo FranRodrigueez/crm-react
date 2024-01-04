@@ -1,39 +1,40 @@
 {
-    "clientes" : [
-        {
-            "id": 1,
-            "nombre": "Francisco",
-            "telefono": 661186310,
-            "email": "f.rodriguez@cesjuanpablosegundocadiz.es",
-            "empresa": "Alten"
-        },
-        {
-            "id": 2,
-            "nombre": "Jose María",
-            "telefono": 138198313,
-            "email": "j.gonzalez@cesjuanpablosegundocadiz.es",
-            "empresa": "Telefónica"
-        },
-        {
-            "id": 3,
-            "nombre": "Israel",
-            "telefono": 31983913,
-            "email": "i.valderrama@cesjuanpablosegundocadiz.es",
-            "empresa": "Panadería"
-        },
-        {
-            "id": 4,
-            "nombre": "Pablo",
-            "telefono": 319381983,
-            "email": "p.ruso@cesjuanpablosegundocadiz.es",
-            "empresa": "Arduino"
-        },
-        {
-            "id": 5,
-            "nombre": "Jesús",
-            "telefono": 1398198938,
-            "email": "j.chaves@cesjuanpablosegundocadiz.es",
-            "empresa": "GTA"
-        }
-    ]
+  "clientes": [
+    {
+      "nombre": "Francisco Rodríguez",
+      "empresa": "Alten",
+      "email": "f.rodriguez@cesjuanpablosegundocadiz.es",
+      "telefono": "661186310",
+      "notas": "Nueva nota",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Jose María",
+      "telefono": 138198313,
+      "email": "j.gonzalez@cesjuanpablosegundocadiz.es",
+      "empresa": "Telefónica"
+    },
+    {
+      "id": 3,
+      "nombre": "Israel",
+      "telefono": 31983913,
+      "email": "i.valderrama@cesjuanpablosegundocadiz.es",
+      "empresa": "Panadería"
+    },
+    {
+      "id": 4,
+      "nombre": "Pablo",
+      "telefono": 319381983,
+      "email": "p.ruso@cesjuanpablosegundocadiz.es",
+      "empresa": "Arduino"
+    },
+    {
+      "id": 5,
+      "nombre": "Jesús",
+      "telefono": 1398198938,
+      "email": "j.chaves@cesjuanpablosegundocadiz.es",
+      "empresa": "GTA"
+    }
+  ]
 }
